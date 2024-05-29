@@ -30,3 +30,13 @@
 ## 🗂️ 문제 및 진행상황
 - [문제](https://github.com/haerihaeri/Algorithms/blob/main/docs/%EB%AC%B8%EC%A0%9C.md)
 <br/>
+
+## 📁 Repository 폴더 구조
+```
+algorithms/{주차}/{문제번호_알고리즘_작성자.py}
+```
+- 💡 예시: `algorithms/Week_01/1181_문자열정렬_haeri.py`
+```
+model/{모델명}/{모델명_작성자.py}
+```
+- 💡 예시: `model/gpt/gpt_haeri.py`
