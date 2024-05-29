@@ -28,7 +28,8 @@
 
 
 ## 🗂️ 문제 및 진행상황
-- [문제](https://github.com/haerihaeri/Algorithms/blob/main/docs/%EB%AC%B8%EC%A0%9C.md)
+- [알고리즘문제](https://github.com/haerihaeri/AI-project-Algorithms/blob/main/docs/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%AC%B8%EC%A0%9C.md)
+- [AI모델구현](https://github.com/haerihaeri/AI-project-Algorithms/blob/main/docs/AI%EB%AA%A8%EB%8D%B8%EA%B5%AC%ED%98%84.md)
 <br/>
 
 ## 📁 Repository 폴더 구조
