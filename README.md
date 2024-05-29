@@ -1,4 +1,4 @@
-# Algorithms
+# AI projects & Algorithms
 
 <table>
   <tr>
